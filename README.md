@@ -18,4 +18,4 @@
 - 🔹 **Full-Stack Food Truck App** – Ordering, reservations, Stripe payments.  
 
 ## 🌍 Connect with Me
-[LinkedIn](www.linkedin.com/in/saihemanth-guntur) 
+(www.linkedin.com/in/saihemanth-guntur) 
